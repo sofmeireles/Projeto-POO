@@ -1,0 +1,15 @@
+ME,António Doutrado,dourado@dei.uc.pt,Adaptive Computation,37,239776883
+ME,Artur Rebelo,arturr@dei.uc.pt,Cognitive and Media Systems,38,239112332
+E,Adriana Leal,aleal@dei.uc.pt,Adaptive Computation,Dynamic risk assessment using home-mobile technologies,22/04/2021,António Dourado
+E,Diogo Nunes,diogobnunes13@dei.uc.pt,Cognitive and Media Systems,Multimedia streaming in information-centric networking,12/01/2021,Artur Rebelo
+ME,Carlos Pereira,cpereira@dei.uc.pt,Adaptive Computatiom,39,239445551
+ME,Edmundo Monteiro,edmundo@dei.uc.pt,Communications and Telematics,40,239008772
+ME,Fernando Boavida,boavida@dei.uc.pt,Communications and Telematics,41,239008112
+ME,João Bicker,bicker@dei.uc.pt,Cognitive and Media Systems,42,329567384
+E,Evgheni Polisciuc,evgheni@dei.uc.pt,Evolutionary and Complex Systems,TCAM space-efficient routing in a software defined network,28/01/2021,Elisabete Reis
+E,Hugo Menino Aguiar,hma@speak.social,Communications and Telematics,A fast and incremental update scheme for SDN,04/11/2021,Fernando Boavida
+ME,Joel P. Arrais,jpa@dei.uc.pt,Adaptive Computation,43,239001234
+ME,Maryam Abbasi,maryam@dei.uc.pt,Adaptive Computation,44,239223111
+E,Pedro Quaresma,quaresma@dei.uc.pt,Communications and Telematics,Intelligent Computing in the Internet of Services,12/07/2021,Edmundo Monteiro
+ME,Noel Lopes,noel@dei.uc.pt,Adaptive Computation,45,239848321
+ME,Elisabete Reis,elreis@dei.uc.pt,Evolutionary and Complex Systems,46,239182331

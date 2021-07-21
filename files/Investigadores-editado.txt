@@ -1,0 +1,81 @@
+ME,Paulo Simões,psimoes@dei.uc.pt,Communications and Telematics,02,239847332
+ME,Bruno Sousa,bmsousa@dei.uc.pt,Communications and Telematics,32,239880088
+ME,Edmundo Monteiro,edmundo@dei.uc.pt,Communications and Telematics,40,239008772
+ME,Fernando Boavida,boavida@dei.uc.pt,Communications and Telematics,41,239008112
+ME,Marília Curado,marilia@dei.uc.pt,Communications and Telematics,33,239887111
+ME,Vasco Pereira,vasco@dei.uc.pt,Communications and Telematics,34,239884112
+ME,Tiago Cruz,tjcruz@dei.uc.pt,Communications and Telematics,35,239112221
+ME,Jorge Granjal,jgranjal@dei.uc.pt,Communications and Telematics,36,239112222
+E,Hugo Menino Aguiar,hma@speak.social,Communications and Telematics,A fast and incremental update scheme for SDN,04/11/2021,Fernando Boavida
+E,Pedro Quaresma,quaresma@dei.uc.pt,Communications and Telematics,Intelligent Computing in the Internet of Services,12/07/2021,Edmundo Monteiro
+E,João T. Fernandes,joaonf@dei.uc.pt,Communications and Telematics,Using Low Cost Embedded Systems for Lung Sounds Auscultation and Analysis,23/09/2021,Jorge Granjal
+E,Mariana Cunha,mccunha@dei.uc.pt,Communications and Telematics,Privacy-Preserving Mechanisms for Location Traces,20/01/2021,Tiago Cruz
+E,Noé Godinho,noe@dei.uc.pt,Communications and Telematics,Algorithms for the Min-Max Regret Minimum Spanning Tree Problem,28/12/2021,Vasco Pereira
+E,Ricardo Mendes,rscmendes@dei.uc.pt,Communications and Telematics,Many-to-one Private Set Intersection,03/07/2021,Marília Curado
+E,Luís Rosa,lmrosa@dei.uc.pt,Communications and Telematics,A Testbed for Multi-robot Systems,08/02/2021,Bruno Sousa
+ME,Jorge Henriques,hj@dei.uc.pt,Adaptive Computation,03,239445323
+ME,António Doutrado,dourado@dei.uc.pt,Adaptive Computation,37,239776883
+ME,Alberto Cardoso,alberto@dei.uc.pt,Adaptive Computation,27,239884721
+ME,Carlos Pereira,cpereira@dei.uc.pt,Adaptive Computatiom,39,239445551
+ME,Joel P. Arrais,jpa@dei.uc.pt,Adaptive Computation,43,239001234
+ME,Maryam Abbasi,maryam@dei.uc.pt,Adaptive Computation,44,239223111
+ME,Bernardete Ribeiro,bribeiro@dei.uc.pt,Adaptive Computation,28,239817283
+ME,Noel Lopes,noel@dei.uc.pt,Adaptive Computation,45,239848321
+ME,Catarina Silva,catarina@dei.uc.pt,Adaptive Computation,29,239882121
+ME,Joana Costa,joanamc@dei.uc.pt,Adaptive Computation,30,239887447
+ME,Luis Paquete,paquete@dei.uc.pt,Adaptive Computation,31,239887441
+E,Adriana Leal,aleal@dei.uc.pt,Adaptive Computation,Dynamic risk assessment using home-mobile technologies,22/04/2021,António Dourado
+E,Alexandre D. Jesus,ajesus@dei.uc.pt,Adaptive Computation,Implicit Enumeration for Representation Systems in Multi-objective Optimization,26/09/2021,Luis Paquete
+E,Diogo Pessoa,dpessoa@dei.uc.pt,Adaptive Computation,Automatic Classification of Ultrasonic Vocalizations in Rodents: a Neurodevelopmental Study,12/04/2021,Joana Costa
+E,Mauro Filipe Da Silva Pinto,mauropinto@dei.uc.pt,Adaptive Computation,Evaluation and prediction of Multiple Sclerosis Disease Progression,22/06/2021,Catarina Silva
+E,Nelson R. C. Monteiro,nelsonrcm@dei.uc.pt,Adaptive Computation,Identify Algorithms From Code,21/09/2021,Bernardete Ribeiro
+E,Pedro Correia,pamc@dei.uc.pt,Adaptive Computation,Automatic Incident Detection,15/01/2021,Alberto Cardoso
+ME,Licínio Roque,lir@dei.uc.pt,Information Systems,01,239761200
+ME,Álvaro Rocha,amrocha@dei.uc.pt,Information Systems,22,239987667
+ME,Rui Craveirinha,raneves@dei.uc.pt,Information Systems,23,239445442
+ME,Paulo Rupino da Cunha,rupino@dei.uc.pt,Information Systems,24,239884172
+ME,Jorge C. S. Cardoso,jorgecardoso@dei.uc.pt,Information Systems,25,239817261
+ME,João Barata,barata@dei.uc.pt,Information Systems,26,239881723
+E,Alexandre Fernandes,aff2011@gmail.com,Information Systems,Compatibility Testing for Rooted Phylogenetic Trees,06/08/2021,João Barata
+E,Nuno Castelhano,nscc@dei.uc.pt,Information Systems,Interpretability of Configurable Software in the Biosciences,09/09/2021,Jorge C. S. Cardoso
+E,José Campos,jcampos@dei.uc.pt,Information Systems,Serendipidade e Sistemas de Informacao,23/04/2021,Paulo Rupino da Cunha
+E,Dina Soeiro,disoeiro@esec.pt,Information Systems,Aprendizagem e Avaliacao Partilhadas em e-Learning,17/08/2021,Rui Craveirinha
+E,Amanda Sizo,sizo@dei.uc.pt,Information Systems,Situation-oriented Requirements Engineering,24/11/2021,Álvaro Rocha
+ME,Henrique Madeira,henrique@dei.uc.pt,Software and Systems Engineering,04,239878994
+ME,Bruno Cabral,bcabral@dei.uc.pt,Software and Systems Engineering,17,239887412
+ME,Filipe Araújo,filipius@uc.pt,Software and Systems Engineering,18,239984889
+ME,Jorge Bernardino,jorge@isec.pt,Software and Systems Engineering,19,239888999
+ME,Marco Vieira,mvieira@dei.uc.pt,Software and Systems Engineering,20,239333222
+ME,Raul Barbosa,rbarbosa@dei.uc.pt,Software and Systems Engineering,21,239000000
+E,José Flora,jeflora@dei.uc.pt,Software and Systems Engineering,Container-level Intrusion Detection for Multi-tenant Environments,05/12/2021,Raul Barbosa
+E,Samuel Neves,sneves@dei.uc.pt,Software and Systems Engineering,Cryptography in GPUs,08/08/2021,Marco Vieira
+E,João Rodrigues Campos,jrcampos@dei.uc.pt,Software and Systems Engineering,Prediction of Mitochondrial Toxicity Indexes for Pharmacological Compounds,02/07/2021,Jorge Bernardino
+E,Paulo Nunes,pnunes@ipg.pt,Software and Systems Engineering,Simulation Models in the Decision-Making Systems,03/03/2021,Filipe Araújo
+E,Pedro Lucas,phlucas@student.dei.uc.pt,Software and Systems Engineering,The Use of Software in Demographic Problems,07/06/2021,Bruno Cabral
+ME,Nuno Lourenço,naml@dei.uc.pt,Evolutionary and Complex Systems,05,239445332
+ME,Elisabete Reis,elreis@dei.uc.pt,Evolutionary and Complex Systems,46,239182331
+ME,João Correia,jncor@dei.uc.pt,Evolutionary and Complex Systems,12,239333444
+ME,Tiago Batista,baptista@dei.uc.pt,Evolutionary and Complex Systems,13,239888111
+ME,Francisco Baptista Pereira,xico@dei.uc.pt,Evolutionary and Complex Systems,14,239878982
+ME,Ernesto Costa,ernesto@dei.uc.pt,Evolutionary and Complex Systems,15,239984100
+ME,Leonor Isabel de Albuquerque Melo,leonor@dei.uc.pt,Evolutionary and Complex Systems,16,239009884
+E,Vitor Costa,vfc@dei.uc.pt,Evolutionary and Complex Systems,Network Intensive Applications,06/05/2021,Ernesto Costa
+E,Rute Pino,pino.rute@gmail.com,Evolutionary and Complex Systems,Visual Effects,02/01/2021,Tiago Batista
+E,Evgheni Polisciuc,evgheni@dei.uc.pt,Evolutionary and Complex Systems,TCAM space-efficient routing in a software defined network,28/01/2021,Elisabete Reis
+E,Pedro Carvalho,pfcarvalho@student.dei.uc.pt,Evolutionary and Complex Systems,Advanced Content Management Systems,02/06/2021,João Correia
+E,Jessica Cunha,jessicac@student.dei.uc.pt,Evolutionary and Complex Systems,Safe Public Cloud in AWS,06/01/2021,Nuno Lourenço
+E,Guilherme Silva,gcsilva@student.dei.uc.pt,Evolutionary and Complex Systems,Software Development,05/01/2021,Francisco Baptista Pereira
+ME,Penousal Machado,machado@dei.uc.pt,Cognitive and Media Systems,06,239887463
+ME,Teresa Mendes,tmendes@eden.dei.uc.pt,Cognitive and Media Systems,07,239422344
+ME,Hugo Gonçalo Oliveira,hroliv@dei.uc.pt,Cognitive and Media Systems,08,239443221
+ME,Rui Pedro Paiva,ruipedro@dei.uc.pt,Cognitive and Media Systems,09,239008994
+ME,Ricardo Malheiro,rsmal@dei.uc.pt,Cognitive and Media Systems,10,239884312
+ME,Carlos Bento,bento@dei.uc.pt,Cognitive and Media Systems,11,239087654
+ME,Artur Rebelo,arturr@dei.uc.pt,Cognitive and Media Systems,38,239112332
+ME,João Bicker,bicker@dei.uc.pt,Cognitive and Media Systems,42,329567384
+E,Diogo Nunes,diogobnunes13@dei.uc.pt,Cognitive and Media Systems,Multimedia streaming in information-centric networking,12/01/2021,Artur Rebelo
+E,Ana Rodrigues,anatr@dei.uc.pt,Cognitive and Media Systems,Objetos Musicais,02/02/2021,Ricardo Malheiro
+E,Bruna Sousa,bruna@dei.uc.pt,Cognitive and Media Systems,Design Computacional de Genericos,04/05/2021,Carlos Bento
+E,Renato Panda,panda@dei.uc.pt,Cognitive and Media Systems,Automatic Mood Tracking in Audio Music,14/01/2021,Rui Pedro Paiva
+E,Sérgio Rebelo,srebelo@dei.uc.pt,Cognitive and Media Systems,Abordagens Participativas para os Sistemas de Orientacao e Sinalizacao,30/12/2021,Teresa Mendes
+E,Tiago Martins,tiagofm@dei.uc.pt,Cognitive and Media Systems,Abordagens Algorítmicas e Computacionais na Arte e no Design,16/07/2021,Penousal Machado

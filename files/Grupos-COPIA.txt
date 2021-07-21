@@ -1,0 +1,6 @@
+IInformation Systems,IS,Licínio Roque,Licínio Roque+Álvaro Rocha+Rui Craveirinha+Paulo Rupino da Cunha+Jorge C. S. Cardoso+João Barata+Alexandre Fernandes+Nuno Castelhano+José Campos+Dina Soeiro+Amanda Sizo
+Cognitive and Media Systems,CMS,Penousal Machado,Penousal Machado+Teresa Mendes+Hugo Gonçalo Oliveira+Rui Pedro Paiva+Ricardo Malheiro+Carlos Bento+Ana Rodrigues+Bruna Sousa+Renato Panda+Sérgio Rebelo+Tiago Martins
+Evolutionary and Complex Systems,ECOS,Nuno Lourenço,Nuno Lourenço+João Correia+Tiago Batista+Francisco Baptista Pereira+Ernesto Costa+Leonor Isabel de Albuquerque Melo+Vitor Costa+Rute Pino+Pedro Carvalho+Jessica Cunha+Guilherme Silva
+Software and Systems Engineering,SSE,Henrique Madeira,Henrique Madeira+Bruno Cabral+Filipe Araújo+Jorge Bernardino+Marco Vieira+Raul Barbosa+José Flora+Samuel Neves+João Rodrigues Campos+Paulo Nunes+Pedro Lucas
+Adaptive Computation,AC,Jorge Henriques,Jorge Henriques+Alberto Cardoso+Bernardete Ribeiro+Catarina Silva+Joana Costa+Luis Paquete+Alexandre D. Jesus+Diogo Pessoa+Mauro Filipe Da Silva Pinto+Nelson R. C. Monteiro+Pedro Correia
+Communications and Telematics,LCT,Paulo Simões,Paulo Simões+Bruno Sousa+Marília Curado+Vasco Pereira+Tiago Cruz+Jorge Granjal+João T. Fernandes+Mariana Cunha+Noé Godinho+Ricardo Mendes+Luís Rosa
